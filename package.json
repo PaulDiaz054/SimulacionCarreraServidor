@@ -1,0 +1,22 @@
+{
+  "name": "simulacioncarrera",
+  "version": "1.0.0",
+  "description": "Simulacion de carreras con servicios web all",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaulDiaz054/SimulacionCarreraServidor.git"
+  },
+  "author": "Paul Diaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PaulDiaz054/SimulacionCarreraServidor/issues"
+  },
+  "homepage": "https://github.com/PaulDiaz054/SimulacionCarreraServidor#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
