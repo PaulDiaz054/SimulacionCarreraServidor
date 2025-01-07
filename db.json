@@ -1,0 +1,150 @@
+{
+  "races": [
+    {
+      "id": 1,
+      "distance": "300",
+      "corredores": [
+        {
+          "id": 1,
+          "nombre": "Corredor 1",
+          "velocidad": 10,
+          "posicion": 300
+        },
+        {
+          "id": 2,
+          "nombre": "Corredor 2",
+          "velocidad": 1,
+          "posicion": 30
+        },
+        {
+          "id": 3,
+          "nombre": "Corredor 3",
+          "velocidad": 3,
+          "posicion": 90
+        },
+        {
+          "id": 4,
+          "nombre": "Corredor 4",
+          "velocidad": 1,
+          "posicion": 30
+        },
+        {
+          "id": 5,
+          "nombre": "Corredor 5",
+          "velocidad": 1,
+          "posicion": 30
+        }
+      ],
+      "ganador": "Corredor 1",
+      "terminada": true
+    },
+    {
+      "id": 2,
+      "distance": "300",
+      "corredores": [
+        {
+          "id": 1,
+          "nombre": "Corredor 1",
+          "velocidad": 1,
+          "posicion": 30
+        },
+        {
+          "id": 2,
+          "nombre": "Corredor 2",
+          "velocidad": 4,
+          "posicion": 120
+        },
+        {
+          "id": 3,
+          "nombre": "Corredor 3",
+          "velocidad": 4,
+          "posicion": 120
+        },
+        {
+          "id": 4,
+          "nombre": "Corredor 4",
+          "velocidad": 3,
+          "posicion": 90
+        },
+        {
+          "id": 5,
+          "nombre": "Corredor 5",
+          "velocidad": 10,
+          "posicion": 300
+        }
+      ],
+      "ganador": "Corredor 5",
+      "terminada": true
+    },
+    {
+      "id": 3,
+      "distance": "150",
+      "corredores": [
+        {
+          "id": 1,
+          "nombre": "Corredor 1",
+          "velocidad": 5,
+          "posicion": 75
+        },
+        {
+          "id": 2,
+          "nombre": "Corredor 2",
+          "velocidad": 10,
+          "posicion": 150
+        },
+        {
+          "id": 3,
+          "nombre": "Corredor 3",
+          "velocidad": 6,
+          "posicion": 90
+        },
+        {
+          "id": 4,
+          "nombre": "Corredor 4",
+          "velocidad": 5,
+          "posicion": 75
+        },
+        {
+          "id": 5,
+          "nombre": "Corredor 5",
+          "velocidad": 10,
+          "posicion": 150
+        },
+        {
+          "id": 6,
+          "nombre": "Corredor 6",
+          "velocidad": 2,
+          "posicion": 30
+        }
+      ],
+      "ganador": "Corredor 2",
+      "terminada": true
+    },
+    {
+      "id": 4,
+      "distance": "500",
+      "corredores": [
+        {
+          "id": 1,
+          "nombre": "Corredor 1",
+          "velocidad": 2,
+          "posicion": 200
+        },
+        {
+          "id": 2,
+          "nombre": "Corredor 2",
+          "velocidad": 5,
+          "posicion": 500
+        },
+        {
+          "id": 3,
+          "nombre": "Corredor 3",
+          "velocidad": 1,
+          "posicion": 100
+        }
+      ],
+      "ganador": "Corredor 2",
+      "terminada": true
+    }
+  ]
+}
